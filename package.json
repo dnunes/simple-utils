@@ -1,0 +1,34 @@
+{
+  "name": "simple-utils",
+  "private": true,
+  "version": "0.0.1",
+  "description": "dnunes' basic utils for personal mvp projects.",
+  "author": "Diego Nunes <work@dnunes.com> (http://dnunes.com)",
+  "homepage": "https://github.com/dnunes/",
+
+  "main": "index.js",
+  "scripts": {
+    "cover": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha -- -c",
+    "test": "./node_modules/.bin/mocha -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnunes/"
+  },
+
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+
+  "keywords": [],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {}
+}
