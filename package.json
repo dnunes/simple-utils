@@ -1,7 +1,7 @@
 {
   "name": "simple-utils",
   "private": true,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "dnunes' basic utils for personal mvp projects.",
   "author": "Diego Nunes <work@dnunes.com> (http://dnunes.com)",
   "homepage": "https://github.com/dnunes/",
