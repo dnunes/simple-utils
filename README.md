@@ -5,7 +5,7 @@ simple-utils
 ## <a id="installation">Installation</a>
 The simplest way to install this package is using [npm](http://www.npmjs.com/):
 ```bash
-$ npm i ??? -S
+$ npm i -S git+https://github.com/dnunes/simple-utils.git
 ```
 
 You can also manually download the [latest release](https://github.com/dnunes/???/zipball/master) from [our project page](http://dnunes.com/???/) or any release from [our GitHub repository](https://github.com/dnunes/???/) on the [releases page](https://github.com/dnunes/???/releases/).

@@ -6,14 +6,14 @@
   "author": "Diego Nunes <work@dnunes.com> (http://dnunes.com)",
   "homepage": "https://github.com/dnunes/",
 
-  "main": "index.js",
+  "main": "lib/simple-utils.js",
   "scripts": {
     "cover": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha -- -c",
     "test": "./node_modules/.bin/mocha -c"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dnunes/"
+    "url": "https://github.com/dnunes/simple-utils"
   },
 
   "license": "MIT",
