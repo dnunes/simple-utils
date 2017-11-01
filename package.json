@@ -1,19 +1,19 @@
 {
-  "name": "simple-utils",
+  "name": "simpleutils",
   "private": true,
   "version": "0.0.4",
   "description": "dnunes' basic utils for personal mvp projects.",
   "author": "Diego Nunes <work@dnunes.com> (http://dnunes.com)",
   "homepage": "https://github.com/dnunes/",
 
-  "main": "lib/simple-utils.js",
+  "main": "lib/simpleUtils.js",
   "scripts": {
     "cover": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha -- -c",
     "test": "./node_modules/.bin/mocha -c"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dnunes/simple-utils"
+    "url": "https://github.com/dnunes/simpleutils"
   },
 
   "license": "MIT",

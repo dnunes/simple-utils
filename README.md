@@ -1,14 +1,14 @@
-simple-utils
-============
+SimpleUtils
+===========
 ### Basic utils for everyday MVP Node.JS development
 
 ## <a id="installation">Installation</a>
 The simplest way to install this package is using [npm](http://www.npmjs.com/):
 ```bash
-$ npm i -S git+https://github.com/dnunes/simple-utils.git
+$ npm i -S git+https://github.com/dnunes/simpleutils.git
 ```
 
-You can also manually download any release from [our GitHub repository](https://github.com/dnunes/simple-utils/) on the [releases page](https://github.com/dnunes/simple-utils/releases/) or try the [latest stable source](https://github.com/dnunes/simple-utils/zipball/master). The links and info are also available on [the project page](http://dnunes.com/simple-utils/).
+You can also manually download any release from [our GitHub repository](https://github.com/dnunes/simpleutils/) on the [releases page](https://github.com/dnunes/simpleutils/releases/) or try the [latest stable source](https://github.com/dnunes/simpleutils/zipball/master). The links and info are also available on [the project page](http://dnunes.com/simpleutils/).
 
 ## <a id="quickstart">Quick Start Guide</a>
 
